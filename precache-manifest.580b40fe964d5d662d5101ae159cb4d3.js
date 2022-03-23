@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6dde5b1657b356758fc5",
+    "revision": "80307adc9b4ddfc3056f",
     "url": "/portfolio/static/css/main.ecf7dc2b.chunk.css"
   },
   {
-    "revision": "6dde5b1657b356758fc5",
-    "url": "/portfolio/static/js/main.5feeaebb.chunk.js"
+    "revision": "80307adc9b4ddfc3056f",
+    "url": "/portfolio/static/js/main.82e8c1c3.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/tetrisblokGame.0e359b6e.jpg"
   },
   {
-    "revision": "b875e01b8e65c7fc2a605d35fdc1c8fe",
+    "revision": "71558b489b7dd609d26d6e5a82a7f9d8",
     "url": "/portfolio/index.html"
   }
 ];
