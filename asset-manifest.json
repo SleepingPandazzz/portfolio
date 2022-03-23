@@ -1,0 +1,22 @@
+{
+  "main.css": "/portfolio/static/css/main.ecf7dc2b.chunk.css",
+  "main.js": "/portfolio/static/js/main.70f9f73e.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.70f9f73e.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+  "static/css/2.1f1b255e.chunk.css": "/portfolio/static/css/2.1f1b255e.chunk.css",
+  "static/js/2.83b55812.chunk.js": "/portfolio/static/js/2.83b55812.chunk.js",
+  "static/js/2.83b55812.chunk.js.map": "/portfolio/static/js/2.83b55812.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.110b54fb558f13b87f172aba6c75d30e.js": "/portfolio/precache-manifest.110b54fb558f13b87f172aba6c75d30e.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/2.1f1b255e.chunk.css.map": "/portfolio/static/css/2.1f1b255e.chunk.css.map",
+  "static/css/main.ecf7dc2b.chunk.css.map": "/portfolio/static/css/main.ecf7dc2b.chunk.css.map",
+  "static/media/3DGame.jpg": "/portfolio/static/media/3DGame.fc9b2fb3.jpg",
+  "static/media/asteroidGame.jpg": "/portfolio/static/media/asteroidGame.6c2634c2.jpg",
+  "static/media/dophinGame.jpg": "/portfolio/static/media/dophinGame.4c30588c.jpg",
+  "static/media/kabs.jpg": "/portfolio/static/media/kabs.cb391366.jpg",
+  "static/media/pl4.jpg": "/portfolio/static/media/pl4.415230e6.jpg",
+  "static/media/spaceGame.mp4": "/portfolio/static/media/spaceGame.14c5eaa4.mp4",
+  "static/media/tetrisblokGame.jpg": "/portfolio/static/media/tetrisblokGame.0e359b6e.jpg"
+}
