@@ -1,24 +1,25 @@
-import logo from './logo.svg';
+import React from 'react';
+import {Layout, Header, Navigation, Content} from 'react-mdl'
+import {Link} from 'react-router-dom'
 import './App.css';
+import Main from './pages/main';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div>
+      <Layout style={{background: 'url(https://images.pexels.com/photos/7048694/pexels-photo-7048694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) center / cover'}}>
+          <Header transparent>
+              <Navigation className="nav-style">
+                <Link to="/portfolio">HOME</Link>
+                <Link to="/projects">PROJECTS</Link>
+              </Navigation>
+          </Header>
+          <Content>
+            <div className="page-content"></div>
+            <Main />
+          </Content>
+      </Layout>
+  </div>
   );
 }
 
